@@ -1,0 +1,9 @@
+p {
+    color: blue;
+}
+
+div {
+    position: relative;
+    float: left;
+    display: block;
+}
